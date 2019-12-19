@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/harikrishna24-96/harikrishna-bz/issues"
   },
-  "homepage": "https://github.com/harikrishna24-96/harikrishna-bz#readme"
+  "homepage": "https://github.com/harikrishna24-96/harikrishna-bz#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
